@@ -2,3 +2,19 @@ DFIR Links
 https://www.malwarearchaeology.com/logging/
 https://www.splunk.com/blog/2017/07/06/hunting-with-splunk-the-basics.html
 https://splunkbase.splunk.com/app/3449/
+Docker Link:
+docker pull splunk/splunk
+
+docker run -d -e "SPLUNK_START_ARGS=--accept-license" -e "SPLUNK_USER=root" -p "8000:8000" splunk/splunk
+
+Then visit http://127.0.0.1:8000
+
+
+Check out Splunk App for Stream as well. Captures data off the wire. Just make your own streams vs using OOTB enabled ones.
+https://github.com/Neo23x0/sigma
+
+... | top helps you find what is common, but ... | rare will show you what doesn't belong
+https://github.com/Neo23x0/sigma - Sigma is a generic and open signature format that allows you to describe relevant log events in a straight forward manner. 
+Sigma is for log files what Snort is for network traffic and YARA is for files.
+
+https://github.com/MHaggis/sysmon-dfir
