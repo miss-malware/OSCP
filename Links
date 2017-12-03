@@ -5,3 +5,17 @@ NetCat for Windows - https://joncraton.org/blog/46/netcat-for-windows/
 NetCat Shells of many Flavors - http://www.hackingtutorials.org/networking/hacking-netcat-part-2-bind-reverse-shells/
 https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/#samb--smb--windows-domain-enumeration
 https://blog.netspi.com/15-ways-to-download-a-file/
+
+How to exploit IIS server with HTTP PUT - http://www.r00tsec.com/2011/09/exploiting-microsoft-iis-version-60.html
+
+WMI - https://www.microsoft.com/resources/documentation/windows/xp/all/proddocs/en-us/wmic.mspx?mfr=true
+Windows Pentest Scripts - https://github.com/ankh2054/windows-pentest
+
+Post exploitation without TTY - http://pentestmonkey.net/blog/post-exploitation-without-a-tty
+
+Reverse shell cheat sheet - http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet
+
+
+How to use TCPDump - http://hackingandsecurity.blogspot.com/2017/08/a-tcpdump-tutorial-and-primer-with.html
+
+Dshell - Forensics packet analyzer - https://github.com/USArmyResearchLab/Dshell
